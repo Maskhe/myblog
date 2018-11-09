@@ -1,2 +1,2 @@
-# myblog
-just for fun
+# 比较原始的版本
+保留着xss,源码中写了后台地址
