@@ -1,2 +1,2 @@
-# myblog
-just for fun
+# vlu1
+增加xss漏洞细节，以及源代码中的提示
